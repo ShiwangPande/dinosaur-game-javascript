@@ -1,0 +1,14 @@
+.character {
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    bottom: 0;
+    background: green;
+}
+.obstacle {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    bottom: 0;
+    background: red;;
+}
